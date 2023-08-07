@@ -6,7 +6,7 @@ Parser using Flex and Bison to recognize COVID-19 phylogenetic trees written in 
 This project was made for the Programming Technologies Subject of Universidad de Zaragoza.
 
 
-![Mips](./mips.png)
+![Trees](./example.png)
 Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](https://www.nature.com/articles/s41598-020-79484-8))
 
 ### Installation
