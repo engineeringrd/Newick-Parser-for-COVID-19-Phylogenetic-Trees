@@ -16,13 +16,16 @@ Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](htt
 
 ##### Linux:
    Execute the following commands in the terminal:
+   
      ```bash
      sudo apt-get update
      sudo apt-get install flex
      ```
+     
 
 ##### macOS:
    Use the following command in the terminal to install Flex with Homebrew:
+   
      ```bash
      brew install flex
      ```
