@@ -11,30 +11,30 @@ Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](htt
 
 ### Installation
 
-## Flex Installation
+#### Flex Installation
 
-1. **Linux:**
+- **Linux:**
     Execute the following commands in the terminal:
      ```
      sudo apt-get update
      sudo apt-get install flex
      ```
 
-2. **macOS:**
+- **macOS:**
     Use the following command in the terminal to install Flex with Homebrew:
      ```
      brew install flex
      ```
 
-## Bison Installation
+#### Bison Installation
 
-1. **Linux:**
+- **Linux:**
     Run the following command in the terminal to install Bison:
      ```
      sudo apt-get install bison
      ```
 
-2. **macOS:**
+- **macOS:**
     Use the following command in the terminal to install Bison with Homebrew:
      ```
      brew install bison
