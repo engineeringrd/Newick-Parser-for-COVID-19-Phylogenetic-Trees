@@ -7,7 +7,7 @@ This project was made for the Programming Technologies Subject of Universidad de
 
 
 ![Trees](./example.png)
-Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](https://www.nature.com/articles/s41598-020-79484-8))
+Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](https://www.nature.com/articles/s41598-020-79484-8)
 
 ### Installation
 
