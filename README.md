@@ -9,9 +9,9 @@ This project was made for the Programming Technologies Subject of Universidad de
 ![Trees](./example.png)
 Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](https://www.nature.com/articles/s41598-020-79484-8)
 
-### Installation
+## Installation
 
-#### Flex
+### Flex
 
 - **Linux:**
     Execute the following commands in the terminal:
@@ -26,7 +26,7 @@ Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](htt
      brew install flex
      ```
 
-#### Bison
+### Bison
 
 - **Linux:**
     Run the following command in the terminal to install Bison:
@@ -40,7 +40,7 @@ Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](htt
      brew install bison
      ```
 
-### Usage 
+## Usage 
 1. Generate the lexer using Flex:
    ```bash
    flex necwick.l
