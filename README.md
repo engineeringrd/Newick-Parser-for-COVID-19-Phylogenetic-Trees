@@ -11,7 +11,7 @@ Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](htt
 
 ### Installation
 
-#### Flex Installation
+#### Flex
 
 - **Linux:**
     Execute the following commands in the terminal:
@@ -26,7 +26,7 @@ Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](htt
      brew install flex
      ```
 
-#### Bison Installation
+#### Bison
 
 - **Linux:**
     Run the following command in the terminal to install Bison:
