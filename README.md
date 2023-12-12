@@ -67,9 +67,9 @@ Example of [Phylogenetic supertree reveals detailed evolution of SARS-CoV-2](htt
 
 ## Authors 
 
-* **Raúl Daramus** - [RaulDaramus](https://github.com/RaulDaramus)
-* **Hector García** - [HectorRute98](https://github.com/HectorRute98)
-* **Ibon González Martínez de Apellániz** - [Ibon](https://github.com/)
+* **Raúl.D**
+* **Hector García**
+* **Ibon González Martínez de Apellániz** 
 
 ## License
 
